@@ -39,6 +39,12 @@ p {
     line-height: 1.5;
 }
 
+a {
+    color: #6F5C75;
+    font-family: 'Montserrat', sans-serif;
+    margin: 5px 5px;
+}
+
 .top-container {
     padding-top: 100px;
     background-color: #DDC0A6;
