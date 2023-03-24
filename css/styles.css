@@ -1,0 +1,133 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #4C3B47;
+}
+
+h1 {
+    font-size: 5.625rem;
+    margin-top: 50px;
+    font-family: 'Sacramento', cursive;
+    color: #6F5C75;
+    line-height: 1.5;
+
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    color: #6F5C75;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #6F5C75;
+}
+
+hr {
+    
+    border: dotted #ACA9B1 6px;
+    border-bottom: none;
+    width: 5%;
+    margin: 50px auto;
+}
+
+p {
+    line-height: 1.5;
+}
+
+.top-container {
+    padding-top: 100px;
+    background-color: #DDC0A6;
+    position: relative;
+}
+
+.middle-container {
+    background-color: white;
+
+}
+
+.bottom-container {
+    background-color: #8C8FAA;
+    padding: 50px 0px 20px;
+}
+
+.intro {
+    width: 40%;
+    margin: 0 auto;
+}
+
+.top-cloud {
+    position: absolute;
+    top: 50px;
+    right: 600px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    bottom: 300px;
+    left: 600px;
+}
+
+.work-experience-row {
+    width: 50%;
+    margin: 60px auto 60px auto;
+    text-align: left;
+
+}
+
+.cloud-server-img {
+    width: 25%;
+    float: left;
+    margin-right: 20px;
+    padding-bottom: 100px;
+}
+
+
+.server-img {
+    width: 20%;
+    float: right;
+    margin-left: 20px;
+}
+
+.helpdesk-img {
+    width: 22%;
+    float: left;
+    margin-right: 20px;
+    padding-bottom: 10px;
+}
+
+.contact-me {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.btn {
+    background: #DDC0A6;
+    background-image: -webkit-linear-gradient(top, #DDC0A6, #ACA9B1);
+    background-image: -moz-linear-gradient(top, #DDC0A6, #ACA9B1);
+    background-image: -ms-linear-gradient(top, #DDC0A6, #ACA9B1);
+    background-image: -o-linear-gradient(top, #DDC0A6, #ACA9B1);
+    background-image: linear-gradient(to bottom, #DDC0A6, #ACA9B1);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #8C8FAA;
+    background-image: -webkit-linear-gradient(top, #8C8FAA, #ACA9B1);
+    background-image: -moz-linear-gradient(top, #8C8FAA, #ACA9B1);
+    background-image: -ms-linear-gradient(top, #8C8FAA, #ACA9B1);
+    background-image: -o-linear-gradient(top, #8C8FAA, #ACA9B1);
+    background-image: linear-gradient(to bottom, #8C8FAA, #ACA9B1);
+    text-decoration: none;
+  }
