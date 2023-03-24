@@ -43,6 +43,11 @@ a {
     color: #6F5C75;
     font-family: 'Montserrat', sans-serif;
     margin: 5px 5px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #DDC0A6;
 }
 
 .top-container {
@@ -108,6 +113,12 @@ a {
 .contact-me {
     margin-top: 50px;
     margin-bottom: 50px;
+}
+
+.copyright {
+    color: #6F5C75;
+    font-size: 0.75rem;
+    padding: 5px 0px;
 }
 
 .btn {
